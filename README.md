@@ -1,6 +1,9 @@
 # Mind Mirror
 
 ![Mind Mirror Logo](public/logo192.png)
+![MindMirror](https://github.com/user-attachments/assets/5831ed98-f06c-42ca-8bd4-d726e47b7bea)
+
+
 
 An interactive check-in app that provides a personalized reflection experience based on the theme "Staying motivated in a competitive field."
 
@@ -22,6 +25,9 @@ An interactive check-in app that provides a personalized reflection experience b
 - Responsive design for mobile and desktop
 
 ## Screenshots
+
+<img width="410" alt="Screen Shot 2025-03-26 at 4 53 15 PM" src="https://github.com/user-attachments/assets/304c9793-bc15-4947-9362-1cd46392cca2" />
+
 
 ![App Home Screen](screenshots/home.png)
 ![Interactive Elements](screenshots/interaction.png)
