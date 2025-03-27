@@ -1,9 +1,6 @@
 # Mind Mirror
 
-<p align="center">
   <img src="https://github.com/user-attachments/assets/5831ed98-f06c-42ca-8bd4-d726e47b7bea" alt="Mind Mirror Logo" width="200"/>
-</p>
-
 
 An interactive check-in app that provides a personalized reflection experience based on the theme "Staying motivated in a competitive field."
 
